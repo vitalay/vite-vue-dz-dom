@@ -15,7 +15,7 @@ onMounted(() => {
 
 <template>
   <div>
-    <h1>Сегодня:</h1>
+    <h1>cегодня:</h1>
     <p class="date">{{ formattedDate }}</p>
   </div>
 </template>
